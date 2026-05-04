@@ -1,0 +1,18 @@
+# ForecastMark dependencies
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning
+xgboost>=1.7.0
+scikit-learn>=1.2.0
+
+# Model serialization
+joblib>=1.2.0
+
+# Telegram bot
+telethon>=1.30.0
+
+# Configuration
+python-dotenv>=1.0.0
